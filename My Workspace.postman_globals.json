@@ -1,0 +1,14 @@
+{
+	"id": "dd3e9182-c74e-415a-8397-0d42b4bb6b18",
+	"values": [
+		{
+			"key": "apikey",
+			"value": "AIzaSyDyzxabn37djwKWbAECGYceziYQxxHIY9s",
+			"enabled": true
+		}
+	],
+	"name": "My Workspace Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2019-07-10T07:37:09.471Z",
+	"_postman_exported_using": "Postman/7.3.2"
+}
